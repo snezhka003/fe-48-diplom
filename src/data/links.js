@@ -1,4 +1,4 @@
-const startName = '/fe-diploma-ticket-booking-system';
+const startName = '/fe-48-diplom';
 
 const links = {
    main: startName,
