@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/mrg2qsdwxebc9bfx?svg=true)](https://ci.appveyor.com/project/snezhka003/fe-48-diplom)
+[![Build status](https://ci.appveyor.com/api/projects/status/34a7pxwlh9h3fimm?svg=true)](https://ci.appveyor.com/project/snezhka003/fe-48-diplom)
 
 # Дипломная работа к профессии Frontend-разработчик «Система бронирования ж/д билетов»
 
